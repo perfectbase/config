@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "albert.tabout",
+    "irongeek.vscode-env",
+    "wesbos.theme-cobalt2",
+    "pkief.material-icon-theme",
+    "rangav.vscode-thunder-client"
+  ]
+}
